@@ -493,9 +493,8 @@ display: none;
 
 #zoom .z[rel=center] {
 	background-image: url('../images/zoom_reset.png');
+	background-size: auto;
 	background-position:center;
-	height: 20px;
-	width: 20px;
 }
 
 #zoom .z[rel=in] {
