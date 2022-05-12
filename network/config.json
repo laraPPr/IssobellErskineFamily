@@ -9,13 +9,13 @@
   },
   "text": {
     "more": "",
-    "intro": "Family connections",
-    "title": ""
+    "intro": "The links indicate the familial relationships",
+    "title": "Family Connections"
   },
   "legend": {
-    "edgeLabel": "family",
-    "colorLabel": "connections",
-    "nodeLabel": "witches"
+    "edgeLabel": "",
+    "colorLabel": "",
+    "nodeLabel": ""
   },
   "features": {
     "search": true,
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 2,
+      "minEdgeSize": 1,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
